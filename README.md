@@ -1,8 +1,12 @@
-### Hi there, I'm Ahmed safwat [My portfolio][website] 👋
+# Hi there, I'm Ahmed safwat <span style='font-size: 14px'> [My portfolio][website] </span>
+
+👋
+<img src='https://raw.githubusercontent.com/snipe/animated-gifs/master/Approved/FistBumpHero6.gif'>
 
 [![Website](https://img.shields.io/badge/Ahmed's%20portfolio-Dream%F0%9F%98%87-blue?style=for-the-badge&logo=appveyor)](https://github.com/asafwat1)
 [![Website](https://img.shields.io/badge/follow%20me%20in%20linkedin-Ahmed%20Safwat%F0%9F%A5%B0-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-safwat-180538208/)
 
+<img src='https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif' style='width: 300px;'>
 
 ## I'm a Developer!
 
@@ -59,13 +63,8 @@
 5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing) -->
 <!--END_SECTION:activity-->
 
-</details> 
+![Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=asafwat1)
 
-<details>
-  <summary style='cursor: pointer;outline:none'>GitHub Stats</summary>
-
-[![Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=asafwat1)](https://github.com/anuraghazra/github-readme-stats)
-</details>
 
 [website]: https://github.com/asafwat1
 [youtube]: https://www.youtube.com/channel/UCdNvhvhYmrQFKdWph8ijYHQ
