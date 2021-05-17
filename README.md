@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/badge/Ahmed's%20portfolio-Dream%F0%9F%98%87-blue?style=for-the-badge&logo=appveyor)](https://github.com/asafwat1)
 [![Website](https://img.shields.io/badge/follow%20me%20in%20linkedin-Ahmed%20Safwat%F0%9F%A5%B0-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-safwat-180538208/)
 
-<img src='https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif' style='width: 300px!important;'>
+<img src='https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif' style='width: 300px;'>
 
 ## I'm a Developer!
 
